@@ -15,7 +15,7 @@ public class MonsterManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-    
+        
     }
 
     // Update is called once per frame
@@ -29,6 +29,9 @@ public class MonsterManager : MonoBehaviour
             monster.transform.position = transform.position;
 
             createTime = Random.Range(minTime, maxTime);
+
+            nowTime = 0f;
+            
         }
      
     }
