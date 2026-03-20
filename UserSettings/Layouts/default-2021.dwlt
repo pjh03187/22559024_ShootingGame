@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 200}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 17
+  controlID: 27
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 97
+  controlID: 57
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -275,7 +275,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 98
+  controlID: 58
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -353,8 +353,7 @@ MonoBehaviour:
   - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: "C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8
-    \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\\uC0C8 \uD3F4\uB354
-    (2)"
+    \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\git\\22559024_ShootingGame"
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -521,7 +520,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: ea770000
       m_LastClickedID: 0
-      m_ExpandedIDs: b4d7ffff2ed9ffff
+      m_ExpandedIDs: ead7ffff2ed9ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -815,9 +814,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -3.8350992, y: 6.612323, z: -0.19061872}
+    m_Target: {x: -0.8639511, y: 3.2590296, z: -0.097999334}
     speed: 2
-    m_Value: {x: -3.7087705, y: 6.371301, z: -0.18222447}
+    m_Value: {x: -1.0186057, y: 3.4241855, z: -0.1028204}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -868,9 +867,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 19.493204
+    m_Target: 10.231291
     speed: 2
-    m_Value: 18.653784
+    m_Value: 10.713393
   m_Ortho:
     m_Target: 1
     speed: 2
