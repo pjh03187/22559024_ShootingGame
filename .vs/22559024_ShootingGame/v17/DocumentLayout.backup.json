@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\22559024_ShootingGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|c:\\users\\park0\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\22559024_shootinggame\\assets\\script\\bulletfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bulletfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|c:\\users\\park0\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\22559024_shootinggame\\assets\\script\\charactormove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\charactormove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\22559024_ShootingGame\\assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\22559024_ShootingGame\\assets\\script\\monstermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\monstermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\22559024_ShootingGame\\assets\\script\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|c:\\users\\park0\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\22559024_shootinggame\\assets\\script\\bulletfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bulletfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\22559024_ShootingGame\\assets\\script\\charactormove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\charactormove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\22559024_ShootingGame\\assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "BulletFire.cs",
               "DocumentMoniker": "C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\22559024_ShootingGame\\Assets\\Script\\BulletFire.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\BulletFire.cs",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CharactorMove.cs",
               "DocumentMoniker": "C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\22559024_ShootingGame\\Assets\\Script\\CharactorMove.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\CharactorMove.cs",
@@ -55,24 +55,24 @@
               "RelativeToolTip": "Assets\\Script\\CharactorMove.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T01:41:50.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T01:41:50.352Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "MonsterManager.cs",
               "DocumentMoniker": "C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\22559024_ShootingGame\\Assets\\Script\\MonsterManager.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\MonsterManager.cs",
               "ToolTip": "C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\22559024_ShootingGame\\Assets\\Script\\MonsterManager.cs",
               "RelativeToolTip": "Assets\\Script\\MonsterManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T01:33:11.646Z"
+              "WhenOpened": "2026-03-20T01:33:11.646Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Monster.cs",
               "DocumentMoniker": "C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\22559024_ShootingGame\\Assets\\Script\\Monster.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Monster.cs",
@@ -80,11 +80,12 @@
               "RelativeToolTip": "Assets\\Script\\Monster.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T01:25:35.17Z"
+              "WhenOpened": "2026-03-20T01:25:35.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Bullet.cs",
               "DocumentMoniker": "C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\22559024_ShootingGame\\Assets\\Script\\Bullet.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Bullet.cs",
@@ -92,8 +93,7 @@
               "RelativeToolTip": "Assets\\Script\\Bullet.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T01:24:02.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T01:24:02.095Z"
             }
           ]
         }
