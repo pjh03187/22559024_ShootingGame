@@ -1,0 +1,366 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.21f1 (1b156197d683) revision 1774945'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) 64bit Core' Language: 'ko' Physical Memory: 32610 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker6
+-projectPath
+C:/Users/user/Desktop/22559024/github/22559024_ShootingGame
+-logFile
+Logs/AssetImportWorker6.log
+-srvPort
+49929
+Successfully changed project path to: C:/Users/user/Desktop/22559024/github/22559024_ShootingGame
+C:/Users/user/Desktop/22559024/github/22559024_ShootingGame
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [27332] Host "[IP] 172.25.140.61 [Port] 0 [Flags] 2 [Guid] 2918564064 [EditorId] 2918564064 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-ITFCQTS) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [27332] Host "[IP] 172.25.140.61 [Port] 0 [Flags] 2 [Guid] 2918564064 [EditorId] 2918564064 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-ITFCQTS) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 58.60 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.21f1 (1b156197d683)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/user/Desktop/22559024/github/22559024_ShootingGame/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4060 Ti (ID=0x2803)
+    Vendor:   NVIDIA
+    VRAM:     7949 MB
+    Driver:   32.0.15.9186
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56340
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.21f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003999 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 52.61 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.459 seconds
+Domain Reload Profiling:
+	ReloadAssembly (459ms)
+		BeginReloadAssembly (59ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (326ms)
+			LoadAssemblies (57ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (77ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (20ms)
+			SetupLoadedEditorAssemblies (192ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (53ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (91ms)
+				ProcessInitializeOnLoadMethodAttributes (41ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003062 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\22559024\github\22559024_ShootingGame\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\user\Desktop\22559024\github\22559024_ShootingGame\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 52.77 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.788 seconds
+Domain Reload Profiling:
+	ReloadAssembly (789ms)
+		BeginReloadAssembly (89ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (14ms)
+		EndReloadAssembly (612ms)
+			LoadAssemblies (62ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (184ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (302ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (53ms)
+				BeforeProcessingInitializeOnLoad (53ms)
+				ProcessInitializeOnLoadAttributes (175ms)
+				ProcessInitializeOnLoadMethodAttributes (13ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (5ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.53 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3078 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 22 unused Assets / (56.2 KB). Loaded Objects now: 3543.
+Memory consumption went from 111.3 MB to 111.2 MB.
+Total: 3.007700 ms (FindLiveObjects: 0.202600 ms CreateObjectMapping: 0.080300 ms MarkObjects: 2.632900 ms  DeleteObjects: 0.090800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 4752.522374 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Pink/RMB_03.prefab
+  artifactKey: Guid(ad61fcfc2f7127246ac725ef545c3551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Pink/RMB_03.prefab using Guid(ad61fcfc2f7127246ac725ef545c3551) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dd7c90c3c0f295a61ad36bd67406f21') in 0.129612 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Pink/RMB_25.prefab
+  artifactKey: Guid(0cb6d29200747694884ccfe7991cc2a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Pink/RMB_25.prefab using Guid(0cb6d29200747694884ccfe7991cc2a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ae8b3af798ed854e9245d9c2ab1fd7b') in 0.020138 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Pink/RMB_33.prefab
+  artifactKey: Guid(e34ca6b7e45a9f64d9795e9265ea288b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Pink/RMB_33.prefab using Guid(e34ca6b7e45a9f64d9795e9265ea288b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74853fbe02a19d301c13d5785a2b6bca') in 0.022575 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Pink/RMB_23.prefab
+  artifactKey: Guid(9d5ef09574f5c1641a6f39941009566c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Pink/RMB_23.prefab using Guid(9d5ef09574f5c1641a6f39941009566c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55d51490098c64aeeb404ab445cfe057') in 0.016174 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Pink/RMB_36.prefab
+  artifactKey: Guid(a4637d9802589cc4abaf9b8a3fffa1da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Pink/RMB_36.prefab using Guid(a4637d9802589cc4abaf9b8a3fffa1da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '949800c72b198192cdebf2a9d23261d5') in 0.021794 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Pink/RMB_31.prefab
+  artifactKey: Guid(2e58940bca1821040a25e3e1ef4f7afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Pink/RMB_31.prefab using Guid(2e58940bca1821040a25e3e1ef4f7afd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '405311c872453a05a73b0cd2db0b4448') in 0.013367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Pink/RMB_13.prefab
+  artifactKey: Guid(3876a627e5dfebe48943c9a6e4da6423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Pink/RMB_13.prefab using Guid(3876a627e5dfebe48943c9a6e4da6423) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d6a81cd40e1ca11e1bce5e0ae9617d6') in 0.013288 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.126863 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Orange/RMB_03.prefab
+  artifactKey: Guid(172eb9ffd508e444eb170893f9f76430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Orange/RMB_03.prefab using Guid(172eb9ffd508e444eb170893f9f76430) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66d7f9d81124ac95fdd12c663645d02d') in 0.014094 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Orange/RMB_41.prefab
+  artifactKey: Guid(c1926c7f89677dd4aa08212d220bbd1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Orange/RMB_41.prefab using Guid(c1926c7f89677dd4aa08212d220bbd1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dd98279d9c5db6076fc3a6d8f125982') in 0.014575 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Orange/RMB_39.prefab
+  artifactKey: Guid(28317de0433a71241a9bdf4c48776067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Orange/RMB_39.prefab using Guid(28317de0433a71241a9bdf4c48776067) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0dc82fe8d342e404d9a34e2adeb8c63d') in 0.013331 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Orange/RMB_33.prefab
+  artifactKey: Guid(fece3a341420e3545ad5b98bcec2178b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Orange/RMB_33.prefab using Guid(fece3a341420e3545ad5b98bcec2178b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88aa8cdc6ac7cad90ac2da3a012310ac') in 0.014523 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Orange/RMB_17.prefab
+  artifactKey: Guid(006456e1f6967524b8c34941554939c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Orange/RMB_17.prefab using Guid(006456e1f6967524b8c34941554939c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57fdd43954af845871d9f2229535b6e2') in 0.013953 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Orange/RMB_38.prefab
+  artifactKey: Guid(167ee51884b62c8459122a0a5d6a3d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Orange/RMB_38.prefab using Guid(167ee51884b62c8459122a0a5d6a3d82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3314f2a3f82b33f7a0a23b34c8ca175a') in 0.014158 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Orange/RMB_25.prefab
+  artifactKey: Guid(49d83f52c659c9746b73dcd16402a97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Orange/RMB_25.prefab using Guid(49d83f52c659c9746b73dcd16402a97a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dbbb99cbaed8364739047f59c50c2bc') in 0.013963 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Orange/RMB_06.prefab
+  artifactKey: Guid(53eef8116e7dabf4fa7cf28fca4a9c24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Orange/RMB_06.prefab using Guid(53eef8116e7dabf4fa7cf28fca4a9c24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd0b446a5624a2d8ce16d5c58eea30b9') in 0.013469 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Orange/RMB_09.prefab
+  artifactKey: Guid(4d7b66c3351795f40b834d8ddceced2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Orange/RMB_09.prefab using Guid(4d7b66c3351795f40b834d8ddceced2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f9d31a92eeb56ac9d0b9e9318818943') in 0.012115 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.287635 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Grey/RMB_03.prefab
+  artifactKey: Guid(86694b64f46af8042a42203a25c7b5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Grey/RMB_03.prefab using Guid(86694b64f46af8042a42203a25c7b5ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '316f3deacea58f43219dbc66ebf20031') in 0.015334 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Grey/RMB_10.prefab
+  artifactKey: Guid(dd92f5405d071444eb6bc0246e9aed48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Grey/RMB_10.prefab using Guid(dd92f5405d071444eb6bc0246e9aed48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d2bfb0872238a57c19c711039cbde7e') in 0.014185 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Grey/RMB_39.prefab
+  artifactKey: Guid(0d2cd6d86e32db7488ce7154390b6497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Grey/RMB_39.prefab using Guid(0d2cd6d86e32db7488ce7154390b6497) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc4cc10a271122d7c816dbb7b1d55d8c') in 0.013487 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Grey/RMB_17.prefab
+  artifactKey: Guid(f93ca57dbb76c1a41a767dcc62a06f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Grey/RMB_17.prefab using Guid(f93ca57dbb76c1a41a767dcc62a06f68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30cadaaaa697e7c9311755464110bc38') in 0.013621 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Grey/RMB_34.prefab
+  artifactKey: Guid(d7e3709a3dac23046a84953a784dbfb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Grey/RMB_34.prefab using Guid(d7e3709a3dac23046a84953a784dbfb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a5843509b7a0bc0b6ae024feed8aba2') in 0.013860 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Grey/RMB_30.prefab
+  artifactKey: Guid(87ad774bf2d1ad54396865cd946ec820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Grey/RMB_30.prefab using Guid(87ad774bf2d1ad54396865cd946ec820) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '661efdf6b6954a486159d5cfab24f25c') in 0.013756 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Grey/RMB_13.prefab
+  artifactKey: Guid(6398023b705935e4883d6719f15b8e3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Grey/RMB_13.prefab using Guid(6398023b705935e4883d6719f15b8e3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c70668f5a8bf54d4826f126f7c869cff') in 0.013726 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Grey/RMB_12.prefab
+  artifactKey: Guid(391eebf03b243af489cd88853e46d0c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Grey/RMB_12.prefab using Guid(391eebf03b243af489cd88853e46d0c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bac8f28fa476ab1d88689064ef5fcc7') in 0.014565 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Grey/RMB_15.prefab
+  artifactKey: Guid(440bfe9edebb30349b612ce252ee6d07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Grey/RMB_15.prefab using Guid(440bfe9edebb30349b612ce252ee6d07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9eb093e58105ac8e2820b81c89f39d58') in 0.012492 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.443145 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Blue/RMB_03.prefab
+  artifactKey: Guid(dc4d2fd4bb4f09b4fb18a1f4d749d848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Blue/RMB_03.prefab using Guid(dc4d2fd4bb4f09b4fb18a1f4d749d848) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '891cc4a7aeb6da4e43b2d7924e1a6b4d') in 0.036271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Blue/RMB_26.prefab
+  artifactKey: Guid(148348498ed578e4f99da579e4facae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Blue/RMB_26.prefab using Guid(148348498ed578e4f99da579e4facae3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2999f8878170c2b5132090f7fc559a1b') in 0.014947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Blue/RMB_15.prefab
+  artifactKey: Guid(2999047fab21c8d49ba052ae38d607a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Blue/RMB_15.prefab using Guid(2999047fab21c8d49ba052ae38d607a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35f0e1fc6b2c5a2e0596baa8833258d9') in 0.017414 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Blue/RMB_20.prefab
+  artifactKey: Guid(940f3ebd82bb29147973ff68933eda13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Blue/RMB_20.prefab using Guid(940f3ebd82bb29147973ff68933eda13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f5af23761e29a409d331c5c5cfa6b09') in 0.013614 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Blue/RMB_06.prefab
+  artifactKey: Guid(244d21f0d15f2024ea5e2a52bf45a22c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Blue/RMB_06.prefab using Guid(244d21f0d15f2024ea5e2a52bf45a22c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8195abd14fc26eb378cdfb6a3b8562d0') in 0.012785 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Blue/RMB_19.prefab
+  artifactKey: Guid(65963163581c48a4a8de09388cd1076b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Blue/RMB_19.prefab using Guid(65963163581c48a4a8de09388cd1076b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69c15d3a36e25bac475baec5c9291ca7') in 0.013878 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Blue/RMB_09.prefab
+  artifactKey: Guid(3a2b0586fe95c384a9dede7202cefb35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Blue/RMB_09.prefab using Guid(3a2b0586fe95c384a9dede7202cefb35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '546527d3f73a9cc926308c4d2605b3f5') in 0.014290 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Blue/RMB_38.prefab
+  artifactKey: Guid(1b6c7e9bad2c31647a75a175ccebdf28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BTM_Assets/BTM_Rockets_Missiles_Bombs/Prefabs/Blue/RMB_38.prefab using Guid(1b6c7e9bad2c31647a75a175ccebdf28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0c0e2632fc46e4b3e2b5a53cc81fe0c8') in 0.013663 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

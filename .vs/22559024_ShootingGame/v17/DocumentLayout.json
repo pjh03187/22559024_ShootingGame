@@ -1,30 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\git\\22559024_ShootingGame\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\22559024\\github\\22559024_ShootingGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|c:\\users\\park0\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\git\\22559024_shootinggame\\assets\\script\\cutlinewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\cutlinewall.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\22559024\\github\\22559024_shootinggame\\assets\\script\\bg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|c:\\users\\park0\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\git\\22559024_shootinggame\\assets\\script\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\git\\22559024_ShootingGame\\assets\\script\\charactormove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\22559024\\github\\22559024_ShootingGame\\assets\\script\\charactormove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\charactormove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\git\\22559024_ShootingGame\\assets\\script\\monstermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\monstermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\git\\22559024_ShootingGame\\assets\\script\\bulletfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bulletfire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\git\\22559024_ShootingGame\\assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\22559024\\github\\22559024_ShootingGame\\assets\\script\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A937DDE2-EB41-580D-2A78-75C96AD9A349}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,76 +27,41 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CutLineWall.cs",
-              "DocumentMoniker": "C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\git\\22559024_ShootingGame\\Assets\\Script\\CutLineWall.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\CutLineWall.cs",
-              "ToolTip": "C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\git\\22559024_ShootingGame\\Assets\\Script\\CutLineWall.cs",
-              "RelativeToolTip": "Assets\\Script\\CutLineWall.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Title": "BG.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\22559024\\github\\22559024_ShootingGame\\Assets\\Script\\BG.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\BG.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\22559024\\github\\22559024_ShootingGame\\Assets\\Script\\BG.cs",
+              "RelativeToolTip": "Assets\\Script\\BG.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T02:35:38.889Z",
+              "WhenOpened": "2026-04-01T05:10:48.475Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "BulletFire.cs",
-              "DocumentMoniker": "C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\git\\22559024_ShootingGame\\Assets\\Script\\BulletFire.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\BulletFire.cs",
-              "ToolTip": "C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\git\\22559024_ShootingGame\\Assets\\Script\\BulletFire.cs",
-              "RelativeToolTip": "Assets\\Script\\BulletFire.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T01:50:17.811Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CharactorMove.cs",
-              "DocumentMoniker": "C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\git\\22559024_ShootingGame\\Assets\\Script\\CharactorMove.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\CharactorMove.cs",
-              "ToolTip": "C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\git\\22559024_ShootingGame\\Assets\\Script\\CharactorMove.cs",
-              "RelativeToolTip": "Assets\\Script\\CharactorMove.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T01:41:50.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MonsterManager.cs",
-              "DocumentMoniker": "C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\git\\22559024_ShootingGame\\Assets\\Script\\MonsterManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\MonsterManager.cs",
-              "ToolTip": "C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\git\\22559024_ShootingGame\\Assets\\Script\\MonsterManager.cs",
-              "RelativeToolTip": "Assets\\Script\\MonsterManager.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAADwvxEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T01:33:11.646Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Monster.cs",
-              "DocumentMoniker": "C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\git\\22559024_ShootingGame\\Assets\\Script\\Monster.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\22559024\\github\\22559024_ShootingGame\\Assets\\Script\\Monster.cs",
               "RelativeDocumentMoniker": "Assets\\Script\\Monster.cs",
-              "ToolTip": "C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\git\\22559024_ShootingGame\\Assets\\Script\\Monster.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\22559024\\github\\22559024_ShootingGame\\Assets\\Script\\Monster.cs",
               "RelativeToolTip": "Assets\\Script\\Monster.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T01:25:35.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Bullet.cs",
-              "DocumentMoniker": "C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\git\\22559024_ShootingGame\\Assets\\Script\\Bullet.cs",
-              "RelativeDocumentMoniker": "Assets\\Script\\Bullet.cs",
-              "ToolTip": "C:\\Users\\park0\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uC0C8 \uD3F4\uB354 (3)\\\uACFC\uC81C\\2\uD559\uB144 1\uD559\uAE30\\git\\22559024_ShootingGame\\Assets\\Script\\Bullet.cs",
-              "RelativeToolTip": "Assets\\Script\\Bullet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CharactorMove.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\22559024\\github\\22559024_ShootingGame\\Assets\\Script\\CharactorMove.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\CharactorMove.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\22559024\\github\\22559024_ShootingGame\\Assets\\Script\\CharactorMove.cs",
+              "RelativeToolTip": "Assets\\Script\\CharactorMove.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T01:24:02.095Z"
+              "WhenOpened": "2026-04-01T04:32:06.854Z",
+              "EditorCaption": ""
             }
           ]
         }

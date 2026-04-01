@@ -6,17 +6,22 @@ public class Monster : MonoBehaviour
 {
 
     public float spd = 1.0f;
-    public GameObject target;
+    private GameObject target;
     Vector3 direct = Vector3.down; //아래로
     // Start is called before the first frame update
+
+    public GameObject prefabEx;
+
     private void Start()
     {
-        //int는 숫자 쓸 때 사용하는듯. 0~10 랜덤 수 안에서 10% 확률
+        target = GameObject.Find("Character");
+     
         int rndNum = Random.Range(0, 10);
         //transform.position = transform.position + direct * spd * Time.deltaTime;
         //30% 확률 지정
         if(rndNum % 3 == 0) //3의 배수
         {
+           
             //해당 확률일 때 일어나는 일을 if문 안에 채운다.
             //target이라는 GameObject (대문자, 소문자 신경쓰기)에 Character넣음
             //GameObject.Find : hierarchy(오브젝트 배치하는 그 칸)에서 GameObject 찾기
@@ -38,7 +43,8 @@ public class Monster : MonoBehaviour
     }
     private void OnCollisionEnter(Collision collision)
     {
-
+        GameObject exTemp = Instantiate(prefabEx);
+        exTemp.transform.position = transform.position;
         Destroy(collision.gameObject);
         Destroy(gameObject);
         //순서가 바뀌면 여러 상황에서 꼬일수가있다. 순서를 바꿔도 작동은했었지만, 여러 상황을 대비해서 코드는 순서를 지켜서 쓰도록하자.
